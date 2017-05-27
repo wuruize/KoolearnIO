@@ -1,0 +1,1 @@
+include ':app', ':koolearnio_sdk', ':koolearnio_plugin'

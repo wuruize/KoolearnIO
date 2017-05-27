@@ -1,0 +1,3 @@
+include ':app',':koolearnio_sdk','koolearnio_plugin'
+project(':koolearnio_sdk').projectDir = new File(settingsDir,'../KoolearnIO_SDK_Sample/koolearnio_sdk')
+project(':koolearnio_plugin').projectDir = new File(settingsDir,'../KoolearnIO_SDK_Sample/koolearnio_plugin')
